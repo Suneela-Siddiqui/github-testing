@@ -22,7 +22,7 @@ class _SecondScreenState extends State<SecondScreen> {
               children: [
                 Container(
                   child: Text('Helllooo'),
-                  decoration: BoxDecoration(color: Colors.blue),
+                  decoration: BoxDecoration(color: Colors.black),
                   height: 200,
                   width: 200,
                 )
