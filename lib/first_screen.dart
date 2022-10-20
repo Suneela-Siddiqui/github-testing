@@ -22,7 +22,7 @@ class _FirstScreenState extends State<FirstScreen> {
               children: [
                 Container(
                   child: Text('Helllooo'),
-                  decoration: BoxDecoration(color: Colors.orange),
+                  decoration: BoxDecoration(color: Colors.pink),
                   height: 200,
                   width: 200,
                 )
